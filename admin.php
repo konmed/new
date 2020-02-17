@@ -7,6 +7,7 @@
 <body>
 	<form>
 		<input type="" name="">
+		<input type="submit" name="">
 	</form>
 </body>
 </html>
